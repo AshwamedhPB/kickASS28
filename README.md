@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashwamedh Bahod
-- 👀 I’m a full-stack web developer with decent python and ethical hacking skills.
+- 👀 I’m a full-stack MERN developer.
 - 🌱 I have built and deployed 15+ static as well as dynamic web sites using technologies React, React Native, NextJs, MongoDB, Django etc.
 - 📫 How to reach me ashwamedhpb@gmail.com
 
